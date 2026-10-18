@@ -1,0 +1,32 @@
+{
+  "recordType": "operator-created lifecycle fixture; not independent third-party evidence",
+  "recordId": "CHRONOLOGY_SPLICE-1792366322",
+  "contractAddress": "0x453cd128F508063e8Dec2bC574347AC9E86bA7c2",
+  "transaction": "0xf30db4bd498fca83eaab571db090d325fe374eb96d5aa3a85b95e70d56362e09",
+  "readback": {
+    "auditor": "0x2222222222222222222222222222222222222222",
+    "conflicts": [],
+    "digests": [],
+    "edges": [],
+    "events": [
+      {
+        "id": "NOTICE",
+        "label": "Notice published"
+      },
+      {
+        "id": "RECEIPT",
+        "label": "Receipt acknowledged"
+      },
+      {
+        "id": "ACTION",
+        "label": "Action recorded"
+      }
+    ],
+    "examiner": "0x412d61db014fCdDda12e33b826f63B8ef9AC2E87",
+    "id": "CHRONOLOGY_SPLICE-1792366322",
+    "layers": [],
+    "question": "Which supported event precedences can be reconstructed without inventing a total order?",
+    "sources": [],
+    "state": "OPEN"
+  }
+}

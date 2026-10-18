@@ -1,0 +1,11 @@
+{
+  "account": "abolkaram",
+  "network": "StudioNet",
+  "contractAddress": "0x453cd128F508063e8Dec2bC574347AC9E86bA7c2",
+  "deploymentTransaction": "0x79f1750c8141587a12aada002f7015a526ba3c15d443427f84ee64b97ec5baae",
+  "deploymentConsensus": "MAJORITY_AGREE",
+  "deploymentExecution": "SUCCESS",
+  "sourceSha256": "8634dcb5baa10dbb4ef71a6c0990e327ca019fe392c2d45dfa28c45c72f558a1",
+  "sourceCommit": "3043a17020c208c501b516447ac351687d92f9c3",
+  "repository": "https://github.com/abolkaram/chronology-splice"
+}
